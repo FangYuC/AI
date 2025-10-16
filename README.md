@@ -1,6 +1,6 @@
 # 趙方于（Fang-Yu Chao） - AI Portfolio
 
-Hi, I'm Fang Yu Chao 👋 <br>
+Hi, I'm Fang-Yu Chao 👋 <br>
 This repository serves as a portfolio of my AI projects, showcasing my ability to fine-tune models, process data, and deploy solutions.
 
 ---
