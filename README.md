@@ -21,8 +21,10 @@ This repository serves as a portfolio of my AI projects, showcasing my ability t
 - **Goal:** Classify chest X-ray images into *Normal*, *Bacterial Pneumonia*, and *Viral Pneumonia* using transfer learning with pre-trained CNNs (ResNet152V2, InceptionV3). Achieved 88.3% accuracy and 87.5% F1-score.
 
 ### 3. [ModernBERT Sentiment Classification](https://github.com/FangYuC/modernbert-imdb)
-   - **Goal:** Fine-tuned ModernBERT on the IMDb dataset for binary sentiment classification (positive/negative). Demonstrated strong generalization and efficiency in handling long text sequences.
+- **Goal:** Fine-tuned ModernBERT on the IMDb dataset for binary sentiment classification (positive/negative). Demonstrated strong generalization and efficiency in handling long text sequences.
 
+### 4. [LoRA Fine-tuning of LLaVA on BDD100K](https://github.com/FangYuC/lora-bdd100k)
+- **Goal:** Fine-tuned LLaVA-1.5-7B using LoRA on the BDD100K driving dataset for visual question answering. Adapted the model to understand traffic scenes with minimal parameter updates.
 ---
 
 ## 📚 Skills & Tools
