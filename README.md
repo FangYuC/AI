@@ -30,7 +30,7 @@ This repository serves as a portfolio of my AI projects, showcasing my ability t
 ## 📚 Skills & Tools
 - **Languages:** Python  
 - **Deep Learning:** PyTorch, Hugging Face Transformers  
-- **NLP:** BERT, LLMs, RAG, 
+- **NLP:** BERT, LLMs, RAG
 - **Data Science:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 - **MLOps / Deployment:** Docker
 - **Database:** MySQL
