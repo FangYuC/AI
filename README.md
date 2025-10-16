@@ -20,6 +20,9 @@ This repository serves as a portfolio of my AI projects, showcasing my ability t
 ### 2. [Transfer Learning for Pneumonia Detection](https://github.com/FangYuC/transfer-learning-pneumonia)
 - **Goal:** Classify chest X-ray images into *Normal*, *Bacterial Pneumonia*, and *Viral Pneumonia* using transfer learning with pre-trained CNNs (ResNet152V2, InceptionV3). Achieved 88.3% accuracy and 87.5% F1-score.
 
+### 3. [ModernBERT Sentiment Classification](https://github.com/FangYuC/modernbert-imdb)
+   - **Goal:** Fine-tuned ModernBERT on the IMDb dataset for binary sentiment classification (positive/negative). Demonstrated strong generalization and efficiency in handling long text sequences.
+
 ---
 
 ## 📚 Skills & Tools
