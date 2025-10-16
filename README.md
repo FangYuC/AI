@@ -1,6 +1,6 @@
 # 趙方于（Fang Yu Chao） - AI Portfolio
 
-Hi, I'm Fang Yu Chao 👋
+Hi, I'm Fang Yu Chao 👋 <br>
 This repository serves as a portfolio of my AI projects, showcasing my ability to fine-tune models, process data, and deploy solutions.
 
 ---
@@ -15,3 +15,20 @@ This repository serves as a portfolio of my AI projects, showcasing my ability t
 
 ## 🔍 Selected Projects
 ### 1.
+
+---
+
+## 📚 Skills & Tools
+- **Languages:** Python  
+- **Deep Learning:** PyTorch, Hugging Face Transformers  
+- **NLP:** BERT, LLMs, RAG, 
+- **Data Science:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
+- **MLOps / Deployment:** Docker
+- **Database:** MySQL
+- **Others:** Git, GitHub, Jupyter Notebook, VSCode
+
+---
+
+## 🚀 Contact & Links
+- [LinkedIn](https://www.linkedin.com/in/fang-yu-chao-85643226a/)  
+- [Email](c1239119@gmail.com)  
