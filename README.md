@@ -1,4 +1,4 @@
-# 趙方于（Fang Yu Chao） - AI Portfolio
+# 趙方于（Fang-Yu Chao） - AI Portfolio
 
 Hi, I'm Fang Yu Chao 👋 <br>
 This repository serves as a portfolio of my AI projects, showcasing my ability to fine-tune models, process data, and deploy solutions.
@@ -14,7 +14,8 @@ This repository serves as a portfolio of my AI projects, showcasing my ability t
 ---
 
 ## 🔍 Selected Projects
-### 1.
+### 1. [Titanic Survival Prediction](https://github.com/FangYuC/titanic-survival-prediction)
+- **Goal:** Predicting survival on the Titanic dataset using machine learning techniques.
 
 ---
 
